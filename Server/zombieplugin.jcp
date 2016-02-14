@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>zombieplugin</label>
+		<root_path>\</root_path>
+		<output_path>..\..\..\..\..\..\..\Program Files\ElectroServer_4_0_6\server\extensions\ZombiePlugin\classes\</output_path>
+		<source_path>src\</source_path>
+		<jdkprofile_ref>JDK version 1.6.0_18</jdkprofile_ref>
+		<compiler_ref>&lt;Default&gt;</compiler_ref>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items>
+		<item run="zombieplugin"/>
+	</run_items>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>zombieplugin</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries>
+		<library_ref>ElectroServer4</library_ref>
+	</libraries>
+	<files>
+		<include>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+			<fileitem>
+				<path>src\GMSInitializer.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\Zombie.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\ZombiePlugin.java</path>
+				<folder>src</folder>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>

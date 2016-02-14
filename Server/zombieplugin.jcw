@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>zombieplugin</label>
+		<id>2</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>zombieplugin.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>zombieplugin.jcp</path>
+		</project>
+	</projects>
+</workspace>

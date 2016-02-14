@@ -1,0 +1,12 @@
+
+
+.svn
+Client/bin
+Client/lib
+Client/obj
+Client/src/images
+Client/src/org
+Client/src/sound
+Client/src/swc
+*.txt
+Server/classes
